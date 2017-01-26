@@ -18,4 +18,3 @@ D:\Proyectos\Estudio\AspNet\WS\WCF_Services\LaboratorioWCF\LaboratorioWCF\bin\Ne
 D:\Proyectos\Estudio\AspNet\WS\WCF_Services\LaboratorioWCF\LaboratorioWCF\bin\Microsoft.AspNet.FriendlyUrls.xml
 D:\Proyectos\Estudio\AspNet\WS\WCF_Services\LaboratorioWCF\LaboratorioWCF\obj\Debug\LaboratorioWCF.dll
 D:\Proyectos\Estudio\AspNet\WS\WCF_Services\LaboratorioWCF\LaboratorioWCF\obj\Debug\LaboratorioWCF.pdb
-D:\Proyectos\Estudio\AspNet\WS\WCF_Services\LaboratorioWCF\LaboratorioWCF\obj\Debug\LaboratorioWCF.csprojResolveAssemblyReference.cache

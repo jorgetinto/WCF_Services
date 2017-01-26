@@ -15,7 +15,7 @@ namespace LaboratorioWCF.Service
     {
         public String DoWork()
         {
-            return "Hello REST WCF Service! :)";
+            return "Respuesta REST WCF Service! :)";
         }
 
         public int DoSquare(int value)
